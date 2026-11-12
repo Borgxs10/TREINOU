@@ -1,0 +1,419 @@
+{
+  "placeholder": true,
+  "attribution": "",
+  "generatedAt": "2026-11-04T21:13:36.775Z",
+  "orientation": {
+    "upAxis": "z",
+    "upSign": 1,
+    "depthAxis": "y",
+    "frontSign": -1
+  },
+  "availableMuscleIds": [
+    "peitoral-clavicular",
+    "peitoral-esternocostal",
+    "peitoral-inferior",
+    "deltoide-anterior",
+    "deltoide-lateral",
+    "deltoide-posterior",
+    "trapezio-superior",
+    "trapezio-medio",
+    "trapezio-inferior",
+    "latissimo-dorso",
+    "biceps-braquial",
+    "triceps-cabeca-longa",
+    "triceps-cabeca-lateral",
+    "triceps-cabeca-medial",
+    "antebracos",
+    "reto-abdominal",
+    "obliquos-externos",
+    "gluteos",
+    "reto-femoral",
+    "vasto-lateral",
+    "vasto-medial",
+    "posteriores-coxa",
+    "adutores",
+    "gastrocnemio",
+    "soleo"
+  ],
+  "missingMuscleIds": [
+    "romboides",
+    "redondo-maior",
+    "braquial",
+    "obliquos-internos",
+    "quadriceps"
+  ],
+  "nodes": [
+    {
+      "node": "DEMO001",
+      "partId": "DEMO001",
+      "name": "Right pectoralis major",
+      "side": "right",
+      "label": "Peitoral maior",
+      "muscleIds": [
+        "peitoral-clavicular",
+        "peitoral-esternocostal",
+        "peitoral-inferior"
+      ]
+    },
+    {
+      "node": "DEMO002",
+      "partId": "DEMO002",
+      "name": "Left pectoralis major",
+      "side": "left",
+      "label": "Peitoral maior",
+      "muscleIds": [
+        "peitoral-clavicular",
+        "peitoral-esternocostal",
+        "peitoral-inferior"
+      ]
+    },
+    {
+      "node": "DEMO003",
+      "partId": "DEMO003",
+      "name": "Right deltoid",
+      "side": "right",
+      "label": "Deltoide",
+      "muscleIds": [
+        "deltoide-anterior",
+        "deltoide-lateral",
+        "deltoide-posterior"
+      ]
+    },
+    {
+      "node": "DEMO004",
+      "partId": "DEMO004",
+      "name": "Left deltoid",
+      "side": "left",
+      "label": "Deltoide",
+      "muscleIds": [
+        "deltoide-anterior",
+        "deltoide-lateral",
+        "deltoide-posterior"
+      ]
+    },
+    {
+      "node": "DEMO005",
+      "partId": "DEMO005",
+      "name": "Right trapezius",
+      "side": "right",
+      "label": "Trapézio",
+      "muscleIds": [
+        "trapezio-superior",
+        "trapezio-medio",
+        "trapezio-inferior"
+      ]
+    },
+    {
+      "node": "DEMO006",
+      "partId": "DEMO006",
+      "name": "Left trapezius",
+      "side": "left",
+      "label": "Trapézio",
+      "muscleIds": [
+        "trapezio-superior",
+        "trapezio-medio",
+        "trapezio-inferior"
+      ]
+    },
+    {
+      "node": "DEMO007",
+      "partId": "DEMO007",
+      "name": "Right latissimus dorsi",
+      "side": "right",
+      "label": "Latíssimo do dorso",
+      "muscleIds": [
+        "latissimo-dorso"
+      ]
+    },
+    {
+      "node": "DEMO008",
+      "partId": "DEMO008",
+      "name": "Left latissimus dorsi",
+      "side": "left",
+      "label": "Latíssimo do dorso",
+      "muscleIds": [
+        "latissimo-dorso"
+      ]
+    },
+    {
+      "node": "DEMO009",
+      "partId": "DEMO009",
+      "name": "Right biceps brachii",
+      "side": "right",
+      "label": "Bíceps braquial",
+      "muscleIds": [
+        "biceps-braquial"
+      ]
+    },
+    {
+      "node": "DEMO010",
+      "partId": "DEMO010",
+      "name": "Left biceps brachii",
+      "side": "left",
+      "label": "Bíceps braquial",
+      "muscleIds": [
+        "biceps-braquial"
+      ]
+    },
+    {
+      "node": "DEMO011",
+      "partId": "DEMO011",
+      "name": "Right triceps brachii",
+      "side": "right",
+      "label": "Tríceps braquial",
+      "muscleIds": [
+        "triceps-cabeca-longa",
+        "triceps-cabeca-lateral",
+        "triceps-cabeca-medial"
+      ]
+    },
+    {
+      "node": "DEMO012",
+      "partId": "DEMO012",
+      "name": "Left triceps brachii",
+      "side": "left",
+      "label": "Tríceps braquial",
+      "muscleIds": [
+        "triceps-cabeca-longa",
+        "triceps-cabeca-lateral",
+        "triceps-cabeca-medial"
+      ]
+    },
+    {
+      "node": "DEMO013",
+      "partId": "DEMO013",
+      "name": "Right flexor carpi radialis",
+      "side": "right",
+      "label": "Antebraço",
+      "muscleIds": [
+        "antebracos"
+      ]
+    },
+    {
+      "node": "DEMO014",
+      "partId": "DEMO014",
+      "name": "Left flexor carpi radialis",
+      "side": "left",
+      "label": "Antebraço",
+      "muscleIds": [
+        "antebracos"
+      ]
+    },
+    {
+      "node": "DEMO015",
+      "partId": "DEMO015",
+      "name": "Right rectus abdominis",
+      "side": "right",
+      "label": "Reto abdominal",
+      "muscleIds": [
+        "reto-abdominal"
+      ]
+    },
+    {
+      "node": "DEMO016",
+      "partId": "DEMO016",
+      "name": "Left rectus abdominis",
+      "side": "left",
+      "label": "Reto abdominal",
+      "muscleIds": [
+        "reto-abdominal"
+      ]
+    },
+    {
+      "node": "DEMO017",
+      "partId": "DEMO017",
+      "name": "Right external oblique",
+      "side": "right",
+      "label": "Oblíquo externo",
+      "muscleIds": [
+        "obliquos-externos"
+      ]
+    },
+    {
+      "node": "DEMO018",
+      "partId": "DEMO018",
+      "name": "Left external oblique",
+      "side": "left",
+      "label": "Oblíquo externo",
+      "muscleIds": [
+        "obliquos-externos"
+      ]
+    },
+    {
+      "node": "DEMO019",
+      "partId": "DEMO019",
+      "name": "Right gluteus maximus",
+      "side": "right",
+      "label": "Glúteos",
+      "muscleIds": [
+        "gluteos"
+      ]
+    },
+    {
+      "node": "DEMO020",
+      "partId": "DEMO020",
+      "name": "Left gluteus maximus",
+      "side": "left",
+      "label": "Glúteos",
+      "muscleIds": [
+        "gluteos"
+      ]
+    },
+    {
+      "node": "DEMO021",
+      "partId": "DEMO021",
+      "name": "Right rectus femoris",
+      "side": "right",
+      "label": "Reto femoral",
+      "muscleIds": [
+        "reto-femoral"
+      ]
+    },
+    {
+      "node": "DEMO022",
+      "partId": "DEMO022",
+      "name": "Left rectus femoris",
+      "side": "left",
+      "label": "Reto femoral",
+      "muscleIds": [
+        "reto-femoral"
+      ]
+    },
+    {
+      "node": "DEMO023",
+      "partId": "DEMO023",
+      "name": "Right vastus lateralis",
+      "side": "right",
+      "label": "Vasto lateral",
+      "muscleIds": [
+        "vasto-lateral"
+      ]
+    },
+    {
+      "node": "DEMO024",
+      "partId": "DEMO024",
+      "name": "Left vastus lateralis",
+      "side": "left",
+      "label": "Vasto lateral",
+      "muscleIds": [
+        "vasto-lateral"
+      ]
+    },
+    {
+      "node": "DEMO025",
+      "partId": "DEMO025",
+      "name": "Right vastus medialis",
+      "side": "right",
+      "label": "Vasto medial",
+      "muscleIds": [
+        "vasto-medial"
+      ]
+    },
+    {
+      "node": "DEMO026",
+      "partId": "DEMO026",
+      "name": "Left vastus medialis",
+      "side": "left",
+      "label": "Vasto medial",
+      "muscleIds": [
+        "vasto-medial"
+      ]
+    },
+    {
+      "node": "DEMO027",
+      "partId": "DEMO027",
+      "name": "Right biceps femoris",
+      "side": "right",
+      "label": "Posteriores da coxa",
+      "muscleIds": [
+        "posteriores-coxa"
+      ]
+    },
+    {
+      "node": "DEMO028",
+      "partId": "DEMO028",
+      "name": "Left biceps femoris",
+      "side": "left",
+      "label": "Posteriores da coxa",
+      "muscleIds": [
+        "posteriores-coxa"
+      ]
+    },
+    {
+      "node": "DEMO029",
+      "partId": "DEMO029",
+      "name": "Right adductor longus",
+      "side": "right",
+      "label": "Adutores",
+      "muscleIds": [
+        "adutores"
+      ]
+    },
+    {
+      "node": "DEMO030",
+      "partId": "DEMO030",
+      "name": "Left adductor longus",
+      "side": "left",
+      "label": "Adutores",
+      "muscleIds": [
+        "adutores"
+      ]
+    },
+    {
+      "node": "DEMO031",
+      "partId": "DEMO031",
+      "name": "Right gastrocnemius",
+      "side": "right",
+      "label": "Gastrocnêmio",
+      "muscleIds": [
+        "gastrocnemio"
+      ]
+    },
+    {
+      "node": "DEMO032",
+      "partId": "DEMO032",
+      "name": "Left gastrocnemius",
+      "side": "left",
+      "label": "Gastrocnêmio",
+      "muscleIds": [
+        "gastrocnemio"
+      ]
+    },
+    {
+      "node": "DEMO033",
+      "partId": "DEMO033",
+      "name": "Right soleus",
+      "side": "right",
+      "label": "Sóleo",
+      "muscleIds": [
+        "soleo"
+      ]
+    },
+    {
+      "node": "DEMO034",
+      "partId": "DEMO034",
+      "name": "Left soleus",
+      "side": "left",
+      "label": "Sóleo",
+      "muscleIds": [
+        "soleo"
+      ]
+    },
+    {
+      "node": "DEMO035",
+      "partId": "DEMO035",
+      "name": "Right serratus anterior",
+      "side": "right",
+      "label": "",
+      "muscleIds": []
+    },
+    {
+      "node": "DEMO036",
+      "partId": "DEMO036",
+      "name": "Left serratus anterior",
+      "side": "left",
+      "label": "",
+      "muscleIds": []
+    }
+  ]
+}
